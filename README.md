@@ -1,2 +1,7 @@
 # connect.sidBypass
-Bypass connect.sid disponible!!  este repositorio no contendra ninguna informacion sobre el bypass, quienes deseen obtener mas detalles sobre el exploit contactarme por favor a whatsapp +18295348745
+Bypass connect.sid available!!
+
+This repository will not contain any information about the bypass, those who wish to obtain more details about the exploit please contact me at whatsapp +18295348745
+
+
+bypass coockie connect.sid
